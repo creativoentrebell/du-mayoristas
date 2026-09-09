@@ -1783,7 +1783,7 @@
       "subcategoria": "Accesorios de pestañas",
       "descripcion": "Depilador Ariel con punta oblicua.",
       "imagen": "img/pestanas/REF DEP3151.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0153",
@@ -1917,7 +1917,7 @@
       "subcategoria": "Accesorios de pestañas",
       "descripcion": "Encrespador de pestañas.",
       "imagen": "img/pestanas/E102 CREMA.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0166",
@@ -2131,7 +2131,7 @@
       "subcategoria": "Accesorios de pestañas",
       "descripcion": "Pinza profesional tipo L para volumen.",
       "imagen": "img/pestanas/PINZA-66_1.jpeg",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/pestanas/PINZA-66_1.jpeg",
         "img/pestanas/PINZA-66_2.jpeg",
@@ -3574,7 +3574,7 @@
       "subcategoria": "Accesorios para uñas",
       "descripcion": "Cortacutícula metálico.",
       "imagen": "img/unas/CORT8819.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0349",
@@ -5509,7 +5509,7 @@
       "subcategoria": "Cuidado del cabello",
       "descripcion": "Toalla microfibra ultra absorbente. Minimiza roce, reduce frizz. Con botón.",
       "imagen": "img/accesorios/GOMIBO.webp",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/accesorios/GOMIBO.webp",
         "img/accesorios/GOMIBO AZUL.webp",
@@ -5656,7 +5656,7 @@
       "subcategoria": "Herramientas y accesorios",
       "descripcion": "Encrespador de pestañas.",
       "imagen": "img/accesorios/E102 CREMA.webp",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/accesorios/E102 CREMA.webp",
         "img/accesorios/E102 ROSA.webp",
@@ -5947,7 +5947,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "",
       "imagen": "img/pestanas/3D-27.png",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0582",
@@ -5977,7 +5977,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "",
       "imagen": "img/pestanas/6D-05.png",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0585",
@@ -7204,7 +7204,7 @@
       "categoria": "Uñas",
       "subcategoria": "Accesorios para uñas",
       "imagen": "img/unas/PIN5002.png",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0701",
@@ -9381,7 +9381,7 @@
       "subcategoria": "Accesorios de pestañas",
       "descripcion": "Anillo corazón porta adhesivo x12 unidades.",
       "imagen": "img/pestanas/ANI-11_1.jpg",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/pestanas/ANI-11_1.jpg",
         "img/pestanas/ANI-11_2.jpg",
@@ -9676,7 +9676,7 @@
       "subcategoria": "Herramientas y accesorios",
       "descripcion": "Tijeras TJ810.",
       "imagen": "img/accesorios/TJ810.png",
-      "agotado": false,
+      "agotado": true,
       "destacado": true
     },
     {
