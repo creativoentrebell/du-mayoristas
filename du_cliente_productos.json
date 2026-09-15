@@ -288,7 +288,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "Pestañas cluster classic.",
       "imagen": "img/pestanas/REF DFD05.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0030",
@@ -1813,7 +1813,7 @@
       "subcategoria": "Accesorios de pestañas",
       "descripcion": "Depilador Arrow con punta oblicua.",
       "imagen": "img/pestanas/DEP3155 1.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0156",
@@ -5439,7 +5439,7 @@
       "subcategoria": "Cepillos y peinillas",
       "descripcion": "Cepillo térmico.",
       "imagen": "img/accesorios/32R.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0530",
@@ -5499,7 +5499,7 @@
       "subcategoria": "Cepillos y peinillas",
       "descripcion": "Peinilla.",
       "imagen": "img/accesorios/pei-106.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0537",
@@ -5797,7 +5797,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "",
       "imagen": "img/pestanas/3D-10.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0567",
@@ -5807,7 +5807,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "",
       "imagen": "img/pestanas/3D-13.webp",
-      "agotado": false
+      "agotado": true
     },
     {
       "id": "p0568",
@@ -6552,7 +6552,7 @@
       "subcategoria": "Cepillos y peinillas",
       "descripcion": "",
       "imagen": "img/accesorios/PEI109_1.jpg",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/accesorios/PEI109_1.jpg",
         "img/accesorios/PEI109_2.jpg"
@@ -8903,7 +8903,7 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "Pestaña cluster curvatura C, 7 líneas.",
       "imagen": "img/pestanas/CFC01_1.png",
-      "agotado": false,
+      "agotado": true,
       "colores": [
         "img/pestanas/CFC01_1.png",
         "img/pestanas/CFC01_2.png"
