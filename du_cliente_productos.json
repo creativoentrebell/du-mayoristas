@@ -842,7 +842,8 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "Pestañas Camelia 'Floración', incluye varios tamaños por tira. Grosor 0.10. Ideal para abanicos.",
       "imagen": "img/pestanas/CAMELLIAMIX10C.webp",
-      "agotado": false
+      "agotado": false,
+      "destacado": true
     },
     {
       "id": "p0086",
@@ -852,7 +853,8 @@
       "subcategoria": "Pestañas de fácil aplicación",
       "descripcion": "Pestañas Camelia 'Floración' curvatura D. Grosor 0.10.",
       "imagen": "img/pestanas/CAMELLIAMIX10D.webp",
-      "agotado": false
+      "agotado": false,
+      "destacado": true
     },
     {
       "id": "p0087",
@@ -9461,28 +9463,6 @@
       "agotado": true
     },
     {
-      "id": "p0878",
-      "nombre": "Uña X Nail CL — X-NAIL CL",
-      "referencia": "X-NAIL CL",
-      "categoria": "Uñas",
-      "subcategoria": "Accesorios para uñas",
-      "descripcion": "Uña guía tipo X-Nail.",
-      "imagen": "img/unas/X-NAIL-CL.jpeg",
-      "agotado": false,
-      "destacado": true
-    },
-    {
-      "id": "p0879",
-      "nombre": "Pestaña Camellia Floración 0.10C Mix",
-      "referencia": "0.10C MIX",
-      "categoria": "Pestañas",
-      "subcategoria": "Pestañas pelo a pelo",
-      "descripcion": "Pestaña Camellia línea Floración, grosor 0.10, curvatura C, mix.",
-      "imagen": "img/accesorios/0.10C MIX.jpg",
-      "agotado": true,
-      "destacado": true
-    },
-    {
       "id": "p0880",
       "nombre": "Pincel Cepillo PIN3053",
       "referencia": "PIN3053",
@@ -9495,11 +9475,11 @@
     },
     {
       "id": "p0881",
-      "nombre": "Raspacallos RP-50",
-      "referencia": "RP-50",
+      "nombre": "Raspacallos RP50",
+      "referencia": "RP50",
       "categoria": "Accesorios",
       "subcategoria": "Herramientas y accesorios",
-      "descripcion": "Raspacallos RP-50.",
+      "descripcion": "Raspacallos RP50.",
       "imagen": "img/accesorios/RP-50_1.png",
       "agotado": true,
       "colores": [
@@ -9766,8 +9746,8 @@
     },
     {
       "id": "p0903",
-      "nombre": "Pestañas Coffee D 8mm — P7D8MM Café",
-      "referencia": "P7D8MM CAFÉ",
+      "nombre": "Pestañas Coffee D 8mm — COFFEECLARA7D8MM",
+      "referencia": "COFFEECLARA7D8MM",
       "categoria": "Pestañas",
       "subcategoria": "Pestañas pelo a pelo",
       "descripcion": "Pestañas pelo a pelo tono café, curvatura D, largo 8mm.",
@@ -9783,17 +9763,6 @@
       "subcategoria": "Accesorios para uñas",
       "descripcion": "Cortacutícula STAR.",
       "imagen": "img/unas/STAR 1.webp",
-      "agotado": false,
-      "destacado": true
-    },
-    {
-      "id": "p0905",
-      "nombre": "Brocha para Pestañas BROS3270",
-      "referencia": "BROS3270",
-      "categoria": "Pestañas",
-      "subcategoria": "Accesorios de pestañas",
-      "descripcion": "Brocha para pestañas BROS3270.",
-      "imagen": "img/pestanas/BROS3270.jpg",
       "agotado": false,
       "destacado": true
     },
